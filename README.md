@@ -2,4 +2,5 @@
 ## Vanilla JS
 ## JS runtime environment - Node
 ## JS framework - React
-## Examples 
+## Examples
+## Notes 
